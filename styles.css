@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Merriweather', serif;
+
+
+}
+h1{
+  display: block;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+
+}
+p{
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.divsuperior{
+  background-color: #e4f9f5;
+  margin: 0;
+  width: 100%;
+  height: 200px;
+  position: relative;
+
+
+}
+.cloud-top{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
